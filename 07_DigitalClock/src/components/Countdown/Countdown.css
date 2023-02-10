@@ -1,0 +1,27 @@
+.countdown{
+    width:50vw;
+    height: 200px;
+    background: rgba( 87, 132, 190, 0.15 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 1.5px );
+-webkit-backdrop-filter: blur( 1.5px );
+border-radius: 40px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+margin: 2rem;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.time{
+    font-size: 55px;
+    color:rgb(206, 68, 50);
+    padding: 1rem;
+    margin: 0;
+}  
+
+.countdown > img {
+    width: 50px;
+    margin-top: 1rem;
+}
