@@ -7,12 +7,12 @@ const Experience = ({ experience }) => {
       <div className="exp">
         {experience.map((item) => {
           return (
-            <div className="card">
-              <p>{item.name}</p>
+            <>
+              <p className="name">📁 {item.name}</p>
               <p>{item.where}</p>
               <p>{item.date}</p>
               <p>{item.description}</p>
-            </div>
+            </>
           );
         })}
       </div>

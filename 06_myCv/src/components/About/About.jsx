@@ -4,9 +4,11 @@ import "./About.css";
 const About = ({ data }) => {
   return (
     <div className="about">
-      {data.aboutMe.map((item) => {
-        return <p>{item.info}</p>;
-      })}
+      <div className="myAbout">
+        {data.aboutMe.map((item) => {
+          return <p>{item.info}</p>;
+        })}
+      </div>
     </div>
   );
 };

@@ -1,0 +1,28 @@
+
+
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btns{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2rem;
+    gap:2rem;
+    background-color: rgb(171, 194, 169);
+   
+}
+
+.btn{
+    border:1px solid black;
+    border-radius: 5px;
+    background-color: inherit;
+}
+
+.pa{
+    text-transform: uppercase;
+    font-weight: bold;
+}

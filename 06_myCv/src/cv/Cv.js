@@ -53,11 +53,13 @@ export const Cv = {
   languages: [
     {
       language: "Spanish",
-      level: "Native",
+      Splevel: "Speaking: Native",
+      Wrlevel: "Writing: Native",
     },
     {
-      lenguage: "English",
-      level: "medium",
+      language: "English",
+      Splevel: "Speaking: Medium",
+      Wrlevel: "Writing: Medium",
     },
   ],
 };
