@@ -1,0 +1,42 @@
+figure{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../public/stars.jpg");
+    gap: 5rem;
+    flex-wrap: wrap;
+    padding: 2.2rem;
+}
+
+
+figure > img{
+    width: 340px;
+    height: 340px;
+    border-radius: 15px;
+    transition: all ease-in-out 0.4s;
+}
+
+figure > img:hover{
+    scale: 1.1;
+}
+
+.card {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:whitesmoke;
+    gap:1rem;
+}
+
+.date-cr {
+    display: flex;
+    gap:2rem;
+    font-size: 20px;
+}
+
+.description {
+    font-size: 20px;
+}

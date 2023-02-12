@@ -29,12 +29,11 @@ function App() {
 
   return (
     <div className="App">
-      <h2 className="title">
-        nasa api
+      <div className="header">
         <img src={logo} />
-      </h2>
-      <h1>Astronomy Picture of the Day</h1>
-      <input type="date" id="photo-day" onChange={input} />
+        <h1>Astronomy Picture of the Day</h1>
+        <input type="date" id="photo-day" onChange={input} />
+      </div>
       {date > today ? (
         <h2>Please choose a previous date</h2>
       ) : (
