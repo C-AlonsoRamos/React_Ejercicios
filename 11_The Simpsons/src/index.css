@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+:root {
+    --ts-color-highligth: #FFDE00;
+
+
+    --ts-typography-base:  'Montserrat', sans-serif;
+
+    --ts-gap: 2rem;
+    --ts-padding: 2rem;
+
+    
+}
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: var(--ts-typography-base);
+}
+
+body{
+    background-image: url("https://res.cloudinary.com/dy4mossqz/image/upload/v1676491080/The%20Simpsons/691864_v6orjs.jpg");
+background-size:cover;
+background-position: bottom;
+background-attachment: fixed;
+
+
+}
+
+main{
+    min-height: 70vh;
+    padding:var(--ts-padding);
+}
+
+a {
+    color:inherit;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+a:hover, .active {
+    color: var(--ts-color-highligth);
+}

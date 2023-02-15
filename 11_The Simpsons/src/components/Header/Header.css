@@ -1,0 +1,17 @@
+.ts-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: var(--ts-padding)
+}
+
+
+.ts-header > img {
+    height: 100%;
+    padding-left: 6rem;
+}
+
+.ts-header > ul {
+    display: flex;
+    gap: var(--ts-gap);
+    }

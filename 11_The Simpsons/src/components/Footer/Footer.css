@@ -1,0 +1,7 @@
+.ts-footer {
+    display: flex;
+    align-items: center;
+    padding: var(--ts-padding);
+    font-weight: bold;
+    
+}

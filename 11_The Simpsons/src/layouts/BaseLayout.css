@@ -1,0 +1,8 @@
+.ts-baseLayout { 
+    display: grid;
+    grid-template-rows: 
+    20vh
+    1fr
+    10vh;
+   min-height: 100vh;
+}
