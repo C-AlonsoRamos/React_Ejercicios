@@ -1,0 +1,8 @@
+.sw-layout{
+    display:grid;
+    grid-template-rows:
+    25vh
+   1fr
+    10vh;
+    min-height: 100vh;
+};

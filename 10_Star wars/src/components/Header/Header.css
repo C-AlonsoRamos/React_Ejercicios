@@ -1,0 +1,17 @@
+header > nav {
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100%;
+}
+
+header >  nav >img {
+   
+   height:70%;
+}
+
+header > nav > ul {
+    display: flex;
+    gap: 3rem;
+    font-size: 1.5rem;
+}
