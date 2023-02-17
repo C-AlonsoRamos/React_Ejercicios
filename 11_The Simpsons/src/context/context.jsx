@@ -1,22 +1,11 @@
-import React, { createContext, useEffect, useState } from "react";
+import React, { createContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
-
 export const UserContext = createContext();
 
 export const UserContextProvider = ({ children }) => {
-  const [characters, setCharacters] = useState([]);
-  const [loaded, setLoaded] = useState(false);
-
-  const getCharacters = async () => {
-    const res = await axios.get();
-    const data = res.data;
-    setCharacters(data);
-    setLoaded(true);
-  };
-
-  useEffect(() => {
-    getCharacters();
-  }, []);
+  const [characters, setCharacters] = useState(
+    localStorage.getItem(JSON.parse(localStorage.getItem("characters")))
+  );
 
   const [user, setUser] = useState(() => {
     if (localStorage.getItem("user")) {
@@ -36,7 +25,7 @@ export const UserContextProvider = ({ children }) => {
 
   return (
     <UserContext.Provider
-      value={{ characters, setCharacters, loaded, user, setUser, logout }}
+      value={{ characters, setCharacters, user, setUser, logout }}
     >
       {children}
     </UserContext.Provider>

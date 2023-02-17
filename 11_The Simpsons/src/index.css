@@ -28,6 +28,7 @@ body{
     background-image: url("https://res.cloudinary.com/dy4mossqz/image/upload/v1676491080/The%20Simpsons/691864_v6orjs.jpg");
 background-size:cover;
 background-position: bottom;
+height: 100vh;
 background-attachment: fixed;
 
 

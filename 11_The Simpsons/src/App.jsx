@@ -1,11 +1,12 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import axios from "axios";
 import { Outlet } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header/Header";
 import BaseLayout from "./layouts/BaseLayout";
 import Footer from "./components/Footer/Footer";
 
-function App() {
+const App = () => {
   return (
     <BaseLayout>
       <Header />
@@ -13,6 +14,6 @@ function App() {
       <Footer />
     </BaseLayout>
   );
-}
+};
 
 export default App;

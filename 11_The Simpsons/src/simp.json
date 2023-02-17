@@ -1,0 +1,66 @@
+[ {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676643919/The%20Simpsons/homer-simpson-holding-beer-duff-logo-9172512EF9-seeklogo.com_spqymd.png",
+     "name": "Hommer Simpson",
+     "description": "Es el padre de la familia protagonista y uno de los personajes centrales más importantes de la serie. Fue creado por el dibujante Matt Groening e hizo su debut en televisión el 19 de abril de 1987.",
+     "id": "1"
+    },
+     {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676643958/The%20Simpsons/5a0c40ca5a997e1c2cea1170_yiqgky.png",
+     "name": "Marge Simpson",
+     "description": "Es la esposa de Homer Simpson y madre de los tres hijos que ha tenido de este matrimonio: Bart, Lisa y Maggie. Ella, junto al resto de su familia, conforman el elenco de personajes protagonistas de Los Simpson.",
+     "id": "2"
+    }, 
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676643806/The%20Simpsons/f47f0780a51ff9a3a4691f625146e724_pkt9ba.png",
+     "name": "Barth Simpson",
+     "description": "es uno de los personajes ficticios protagonistas de la serie de televisión de dibujos animados Los Simpson. Bart tiene diez años y es el primogénito y único hijo varón de Homer y Marge Simpson. Es el hermano mayor de Lisa y Maggie.",
+     "id": "3"
+    },
+     {
+        "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676643878/The%20Simpsons/140f575e6f499660b31f1b7fe355a1b2_smxy2u.png",
+        "name": "Lisa Simpson",
+        "description": ". Es la hija mediana de Homer y Marge Simpson y hermana de Bart y Maggie. Goza de notable protagonismo y complejidad en la serie.",
+        "id": "4"
+       },
+       {
+        "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676643839/The%20Simpsons/Maggie_Simpson_jttjrq.webp",
+        "name": "Maggie Simpson",
+        "description": "Es la tercera hija del matrimonio protagonista, Homer y Marge Simpson, y la más joven de ellos. Sus hermanos mayores son Bart y Lisa Simpson. Siempre se la ve succionando un chupete y cuando camina, suele tropezar con el mono y cae de frente.",
+        "id": "5"
+       },
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676644072/The%20Simpsons/20210302115931_Milhouse_Van_Houten_xpc5cz.png",
+     "name": "Milhouse Van Houten",
+     "description": "Milhouse es el mejor amigo de Bart Simpson, aunque él siempre le meta en problemas. Es el típico niño con gafas, tímido y retraído, que procede de un hogar desestructurado",
+     "id": "6"
+    },
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676644004/The%20Simpsons/Tapped_Out_Unlock_Barney_eny6ay.webp",
+     "name": "Barney Gumble",
+     "description": " Es el alcohólico de Springfield, seguidor de lord Palmerston y uno de los mejores amigos del protagonista, Homer Simpson.",
+     "id": "7"
+    },
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676644138/The%20Simpsons/507904381-Chief_Wiggum_he5s7p.gif",
+     "name": "Clancy Wiggum",
+     "description": "Clancy Wiggum nació en Baltimore, Maryland. Es el corrupto e ineficiente jefe de policía de Springfield y representa al estereotipo de policía americano.",
+     "id": "8"
+    },
+   
+   
+    
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676644166/The%20Simpsons/Charles_Montgomery_Burns_rt1wub.webp",
+     "name": "Montgomery Burns",
+     "description": "Es el propietario de la Planta de energía nuclear de Springfield y por tanto jefe de Homer Simpson. Es atendido casi todo el tiempo por Waylon Smithers, su leal y adulador ayudante, asesor, confidente y admirador secreto.",
+     "id": "9"
+    },
+   
+    {
+     "img": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676644190/The%20Simpsons/Moe_Szyslak_wvozmz.webp",
+     "name": "Moe Szyslak",
+     "description": " propietario de la Taberna de Moe. La voz original es de Hank Azaria, y apareció por primera vez en el episodio Simpsons Roasting on an Open Fire.",
+     "id": "10"
+    }
+   
+   ]

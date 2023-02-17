@@ -1,0 +1,30 @@
+.ts-portrait {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .ts-portrait figure {
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem;
+    
+  }
+  
+  .ts-portrait img {
+    height: 90%;
+    aspect-ratio: 1.1;
+    object-fit: contain;
+    padding: 1rem;
+  }
+
+  .ts-portrait h2 {
+    font-size: 15px;
+  }
+  

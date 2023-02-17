@@ -1,0 +1,17 @@
+.ts-figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    gap:1rem
+}
+
+.ts-figure > img {
+    width: 250px;
+    height: 250px;
+}
+
+.ts-figure > figcaption {
+    font-weight:600;
+}

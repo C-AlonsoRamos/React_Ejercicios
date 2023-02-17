@@ -6,7 +6,7 @@ import Login from "./pages/login/Login";
 import Home from "./pages/home/Home";
 import Gallery from "./pages/gallery/Gallery";
 import About from "./pages/about/About";
-import GalleryDetail from "./components/galleryDetail/GalleryDetail";
+import GalleryDetail from "./pages/galleryDetail/GalleryDetail";
 import { UserContextProvider } from "./context/context";
 import "./index.css";
 

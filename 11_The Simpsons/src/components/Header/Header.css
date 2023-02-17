@@ -1,8 +1,9 @@
 .ts-header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: var(--ts-padding)
+    padding: var(--ts-padding);
+    
 }
 
 
