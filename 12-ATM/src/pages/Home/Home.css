@@ -1,0 +1,55 @@
+.atm-decorator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.atm-decorator > img {
+  width: 260px;
+  transition: all 0.5s ease-in-out;
+}
+
+.atm-decorator > img:hover {
+  scale: 1.2;
+}
+
+.atm-hero {
+  width: auto;
+  height: 600px;
+  background-image: url('https://res.cloudinary.com/dy4mossqz/image/upload/v1676752708/Atm/16685200596277_dtycrn.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.atm-notice {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.7rem;
+  flex-wrap: wrap;
+}
+
+.atm-article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  width: 50vh;
+  height: 400px;
+}
+
+.atm-article > img {
+  width: 350px;
+}
+
+.atm-article > h1 {
+  color: var(--atm-color-background);
+  font-size: 20px;
+  font-weight: bolder;
+}

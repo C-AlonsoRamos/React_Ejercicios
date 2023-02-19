@@ -1,0 +1,7 @@
+.atm-input {
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    width: 350px;
+}

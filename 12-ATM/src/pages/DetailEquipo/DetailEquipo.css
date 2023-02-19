@@ -1,0 +1,20 @@
+.detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.detail > img {
+  border: 2px dashed var(--atm-color-prymary);
+  border-radius: 10px;
+  background-color: #c634279f;
+  width: 350px;
+}
+
+.detail > h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+}

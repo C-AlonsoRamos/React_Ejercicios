@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Diego Pablo Simeone",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714788/Atm/_0003_RECORTES_WEB_0023_SIMEONE_mx9y6n.png",
+    "position": "entrenador",
+    "weight": "null",
+    "height": "null",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714788/Atm/_0003_RECORTES_WEB_0023_SIMEONE_mx9y6n.png",
+    "id": "1"
+  },
+  {
+    "name": "Nelson Vivas",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714798/Atm/_0002_RECORTES_WEB_0024_NELSON_fmjqng.png",
+    "position": "entrenador",
+    "weight": "null",
+    "height": "null",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714798/Atm/_0002_RECORTES_WEB_0024_NELSON_fmjqng.png",
+    "id": "2"
+  },
+  {
+    "name": "Oscar Ortega",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714792/Atm/_0000_RECORTES_WEB_0026_ORTEGA_kwg2sd.png",
+    "position": "entrenador",
+    "weight": "null",
+    "height": "null",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714792/Atm/_0000_RECORTES_WEB_0026_ORTEGA_kwg2sd.png",
+    "id": "3"
+  },
+  {
+    "name": "Jan Oblak",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714632/Atm/13_OBLAK_k7ly8c.jpg",
+    "position": "portero",
+    "weight": "87kg",
+    "height": "188cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676804334/Atm/_0008_RECORTES_WEB_0017_OBLAK_qw0jgd.png",
+    "id": "4"
+  },
+  {
+    "name": "Ivo Grbic",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714625/Atm/1_GRBIC_prlqbw.jpg",
+    "position": "portero",
+    "weight": "93kg",
+    "height": "195cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676804566/Atm/_0018_RECORTES_WEB_0007_GRBIC_j6vq62.png",
+    "id": "5"
+  },
+  {
+    "name": "JOSÉ MARÍA GIMÉNEZ DE VARGAS",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714640/Atm/2_GIMENEZ_xopit9.jpg",
+    "position": "defensa",
+    "weight": "79kg",
+    "height": "185cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676804745/Atm/_0020_RECORTES_WEB_0005_GIMENEZ_jndksr.png",
+    "id": "6"
+  },
+  {
+    "name": "SERGIO REGUILÓN",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714649/Atm/3_REGUILON_om0kwt.jpg",
+    "position": "defensa",
+    "weight": "68kg",
+    "height": "178cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676804771/Atm/_0008_RECORTES_WEB_3_REGUILON_ybizxf.png",
+    "id": "7"
+  },
+  {
+    "name": "MATTHEW JAMES DOHERTY",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714656/Atm/12_DOHERTY_yo3mwm.jpg",
+    "position": "defensa",
+    "weight": "80kg",
+    "height": "186cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676806028/Atm/_0016_RECORTES_WEB_12_DOHERTY_viphtk.png",
+    "id": "8"
+  },
+  {
+    "name": "STEFAN SAVIC",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714662/Atm/15_SAVIC_upxbdd.jpg",
+    "position": "defensa",
+    "weight": "80kg",
+    "height": "187cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805983/Atm/_0006_RECORTES_WEB_0019_SAVIC_nujugg.png",
+    "id": "9"
+  },
+  {
+    "name": "Nahuel Molina",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714669/Atm/16_MOLINA_cdeosf.jpg",
+    "position": "defensa",
+    "weight": "70kg",
+    "height": "175cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805933/Atm/_0009_RECORTES_WEB_0016_NAHUEL_zcfksu.png",
+    "id": "10"
+  },
+  {
+    "name": "REINILDO MANDAVA",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714684/Atm/23_REINILDO_pcnj9a.jpg",
+    "position": "defensa",
+    "weight": "73kg",
+    "height": "180cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805806/Atm/_0007_RECORTES_WEB_0018_REINILDO_s4a1kx.png",
+    "id": "11"
+  },
+  {
+    "name": "MARIO HERMOSO",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714708/Atm/22_HERMOSO_fvojve.jpg",
+    "position": "defensa",
+    "weight": "76kg",
+    "height": "184cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805871/Atm/_0016_RECORTES_WEB_0009_HERMOSO_wrhgwu.png",
+    "id": "12"
+  },
+  {
+    "name": "GEOFFREY EDWIN KONDOGBIA",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714715/Atm/4_KONDOGBIA_bfpksc.jpg",
+    "position": "centrocampista",
+    "weight": "76kg",
+    "height": "188cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805745/Atm/_0014_RECORTES_WEB_0011_KONDOGBIA_xxzz7l.png",
+    "id": "13"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714720/Atm/5_PAUL_xkzzkh.jpg",
+    "position": "centrocampista",
+    "weight": "70kg",
+    "height": "180cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805693/Atm/_0022_RECORTES_WEB_0003_DE-PAUL_qzcubc.png",
+    "id": "14"
+  },
+  {
+    "name": "JORGE RESURRECCIÓN",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714726/Atm/6_KOKE_flppzx.jpg",
+    "position": "centrocampista",
+    "weight": "75kg",
+    "height": "176cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805634/Atm/_0015_RECORTES_WEB_0010_KOKE_rnznfe.png",
+    "id": "15"
+  },
+  {
+    "name": "THOMAS LEMAR",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714732/Atm/11_LEMAR_psitrp.jpg",
+    "position": "centrocampista",
+    "weight": "66kg",
+    "height": "171cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805589/Atm/_0011_RECORTES_WEB_0014_LEMAR_ciyoxv.png",
+    "id": "16"
+  },
+  {
+    "name": "Marcos Llorente",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714739/Atm/14_LLORENTE_axs7lm.jpg",
+    "position": "centrocampista",
+    "weight": "74kg",
+    "height": "184cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805498/Atm/_0012_RECORTES_WEB_0013_LLORENTE_bjjt6r.png",
+    "id": "17"
+  },
+  {
+    "name": "SAÚL ÑÍGUEZ ",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714745/Atm/17_SAUL_rhyltt.jpg",
+    "position": "centrocampista",
+    "weight": "75kg",
+    "height": "184cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805448/Atm/_0005_RECORTES_WEB_0020_SAUL_oze1vz.png",
+    "id": "18"
+  },
+  {
+    "name": "AXEL WITSEL",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714751/Atm/20_WITSEL_t7sdq9.jpg",
+    "position": "centrocampista",
+    "weight": "81kg",
+    "height": "186cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805402/Atm/_0004_RECORTES_WEB_0021_WITSEL_otiprv.png",
+    "id": "19"
+  },
+  {
+    "name": "YANNICK CARRASCO",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714755/Atm/21_CARRASCO_hzbpql.jpg",
+    "position": "centrocampista",
+    "weight": "73kg",
+    "height": "181cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805351/Atm/_0025_RECORTES_WEB_0000_CARRASCO_kcocdc.png",
+    "id": "20"
+  },
+  {
+    "name": "Pablo Barrios",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714760/Atm/FICHA_WEB_BARRIOS_23_gqvbvx.jpg",
+    "position": "centrocampista",
+    "weight": "75kg",
+    "height": "181cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805296/Atm/_0012_RECORTES_WEB_BARRIOS_fgxygx.png",
+    "id": "21"
+  },
+  {
+    "name": "ANTOINE GRIEZMANN",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714765/Atm/8_GRIEZMANN_u0kftr.jpg",
+    "position": "delantero",
+    "weight": "73kg",
+    "height": "176cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805210/Atm/_0019_RECORTES_WEB_0006_GRIEZMANN_wcbeht.png",
+    "id": "22"
+  },
+  {
+    "name": "MEMPHIS DEPAY",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714772/Atm/FICHA_WEB_MEMPHIS_m89o55.jpg",
+    "position": "delantero",
+    "weight": "78kg",
+    "height": "178cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805261/Atm/FICHA_WEB_MEMPHIS_vrxsf6.png",
+    "id": "23"
+  },
+  {
+    "name": "ÁNGEL MARTÍN CORREA MARTÍNEZ",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714777/Atm/10_CORREA_lsmfjy.jpg",
+    "position": "delantero",
+    "weight": "70kg",
+    "height": "171cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676806122/Atm/_0023_RECORTES_WEB_0002_CORREA_yp0qkr.png",
+    "id": "24"
+  },
+  {
+    "name": "Alvaro Morata",
+    "img1": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676714782/Atm/19_MORATA_szudue.jpg",
+    "position": "delantero",
+    "weight": "84kg",
+    "height": "190cm",
+    "img2": "https://res.cloudinary.com/dy4mossqz/image/upload/v1676805046/Atm/_0010_RECORTES_WEB_0015_MORATA_qbivvy.png",
+    "id": "25"
+  }
+]

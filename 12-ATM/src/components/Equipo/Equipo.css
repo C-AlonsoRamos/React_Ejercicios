@@ -1,0 +1,14 @@
+.atm-equipo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  gap: 1rem;
+}
+
+.atm-equipo img {
+  width: 100%;
+  margin-top: 3rem;
+  border-radius: 0.7rem;
+  border: 2px solid var(--atm-color-prymary);
+}

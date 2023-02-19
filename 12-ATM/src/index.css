@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --atm-color-background: #2c325f;
+  --atm-color-prymary: #f2efec;
+  --atm-color-highlight: #c63527;
+
+  --atm-typography-base: 'Exo', sans-serif;
+  --atm-typopgraphy-content: 1rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--atm-typography-base);
+  font-size: var(--atm-typopgraphy-content);
+  list-style-type: none;
+  text-decoration: inherit;
+}
+
+body {
+  background-image: url('https://res.cloudinary.com/dy4mossqz/image/upload/v1676714283/Atm/dato-bg_itly7h.png');
+  color: var(--atm-color-prymary);
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+a {
+  color: var(--atm-color-prymary);
+  text-transform: uppercase;
+}
+
+a:hover,
+.active {
+  color: var(--atm-color-highlight);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 3rem;
+  
+}

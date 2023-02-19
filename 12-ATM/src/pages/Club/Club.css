@@ -1,0 +1,15 @@
+
+.atm-box {
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   gap:2rem
+}
+
+.atm-titulo {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:2rem 0;
+}
+
