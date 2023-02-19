@@ -1,7 +1,23 @@
 .atm-input {
-    display :flex;
-    justify-content: center;
-    align-items: center;
-    margin: 2rem 0;
-    width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+  width: 100%;
+}
+
+.atm-input > input {
+  width: 300px;
+  border: none;
+  outline: none;
+  border-bottom: 4px solid var(--atm-color-prymary);
+  background: none;
+  color: var(--atm-color-prymary);
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+::placeholder {
+  color: var(--atm-color-prymary);
 }

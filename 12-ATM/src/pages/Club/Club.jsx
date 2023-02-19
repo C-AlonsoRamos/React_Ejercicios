@@ -64,41 +64,103 @@ const Club = () => {
       <div className="atm-box">
         <div className="atm-box1">
           <ul>
-            <li>2020/21: Campeonato Nacional de Liga</li>
-            <li>2018: Supercopa de Europa</li>
-            <li>2018: UEFA Europa League</li>
-            <li>2014: Supercopa de España</li>
-            <li>2013/14: Campeonato Nacional de Liga</li>
-            <li>2013: Copa del Rey</li>
-            <li>2012: Supercopa de Europa</li>
-            <li>2012: UEFA Europa League</li>
-            <li>2010: Supercopa de Europa</li>
-            <li>2010: UEFA Europa League</li>
-            <li>1996: Copa del Rey</li>
-            <li>1995/96: Campeonato Nacional de Liga</li>
-            <li>1992: Copa del Rey</li>
-            <li>1991: Copa del Rey</li>
-            <li>1985: Supercopa de España</li>
-            <li>1985: Copa del Rey</li>
+            <li>
+              <strong>2020/21:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>2018:</strong> Supercopa de Europa
+            </li>
+            <li>
+              <strong>2018:</strong> UEFA Europa League
+            </li>
+            <li>
+              <strong>2014:</strong> Supercopa de España
+            </li>
+            <li>
+              <strong>2013/14:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>2013:</strong> Copa del Rey
+            </li>
+            <li>
+              <strong>2012:</strong> Supercopa de Europa
+            </li>
+            <li>
+              <strong>2012:</strong> UEFA Europa League
+            </li>
+            <li>
+              <strong>2010:</strong> Supercopa de Europa
+            </li>
+            <li>
+              <strong>2010:</strong> UEFA Europa League
+            </li>
+            <li>
+              <strong>1996:</strong> Copa del Rey
+            </li>
+            <li>
+              <strong>1995/96:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1992:</strong> Copa del Rey
+            </li>
+            <li>
+              <strong>1991:</strong> Copa del Rey
+            </li>
+            <li>
+              <strong>1985:</strong> Supercopa de España
+            </li>
+            <li>
+              <strong>1985:</strong> Copa del Rey
+            </li>
           </ul>
         </div>
         <div className="atm-box2">
           <ul>
-            <li>1976/77: Campeonato Nacional de Liga</li>
-            <li>1976: Copa del Generalísimo</li>
-            <li>1974: Copa Intercontinental</li>
-            <li>1972/ 73: Campeonato Nacional de Liga</li>
-            <li>1972: Copa del Generalísimo</li>
-            <li>1969/70: Campeonato Nacional de Liga</li>
-            <li>1965/ 66: Campeonato Nacional de Liga</li>
-            <li>1965: Copa del Generalísimo</li>
-            <li>1962: Recopa de Europa</li>
-            <li>1961: Copa del Generalísimo</li>
-            <li>1960: Copa del Generalísimo</li>
-            <li>1950/51: Campeonato Nacional de Liga</li>
-            <li>1949/50: Campeonato Nacional de Liga</li>
-            <li>1940/41: Campeonato Nacional de Liga</li>
-            <li>1939/40: Campeonato Nacional de Liga</li>
+            <li>
+              <strong>1976/77</strong>: Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1976:</strong> Copa del Generalísimo
+            </li>
+            <li>
+              <strong>1974:</strong> Copa Intercontinental
+            </li>
+            <li>
+              <strong>1972/ 73:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1972: </strong>Copa del Generalísimo
+            </li>
+            <li>
+              <strong>1969/70:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1965/ 66:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1965:</strong> Copa del Generalísimo
+            </li>
+            <li>
+              <strong>1962:</strong> Recopa de Europa
+            </li>
+            <li>
+              <strong>1961:</strong> Copa del Generalísimo
+            </li>
+            <li>
+              <strong>1960:</strong> Copa del Generalísimo
+            </li>
+            <li>
+              <strong>1950/51:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1949/50:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1940/41:</strong> Campeonato Nacional de Liga
+            </li>
+            <li>
+              <strong>1939/40:</strong> Campeonato Nacional de Liga
+            </li>
           </ul>
         </div>
       </div>

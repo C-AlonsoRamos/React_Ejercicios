@@ -7,13 +7,15 @@
   margin: 2rem 0;
 }
 
-.atm-decorator > img {
+.atm-decorator > a > img {
   width: 260px;
   transition: all 0.5s ease-in-out;
+  border-radius: 10px;
+  border: 3px solid var(--atm-color-prymary);
 }
 
-.atm-decorator > img:hover {
-  scale: 1.2;
+.atm-decorator > a > img:hover {
+  scale: 1.1;
 }
 
 .atm-hero {
@@ -46,6 +48,8 @@
 
 .atm-article > img {
   width: 350px;
+  border: 3px solid var(--atm-color-prymary);
+  border-radius: 10px;
 }
 
 .atm-article > h1 {

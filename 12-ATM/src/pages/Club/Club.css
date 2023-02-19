@@ -1,15 +1,28 @@
-
 .atm-box {
-    display: flex;
-    justify-content: center;
-   align-items: center;
-   gap:2rem
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
 }
 
 .atm-titulo {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin:2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
 }
 
+p {
+  margin-top: 2rem;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 30px;
+  color: var(--atm-color-background);
+}
+
+strong {
+  font-size: 17px;
+  color: var(--atm-color-background);
+}

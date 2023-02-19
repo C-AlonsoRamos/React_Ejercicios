@@ -1,27 +1,39 @@
 import './Home.css';
 
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const Home = () => {
   return (
     <main>
       <div className="atm-decorator">
-        <img
-          src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750026/Atm/eE1b-LXrzb_hazte_socio_modulo_tku1v8.jpg"
-          alt="hazte socio"
-        />
-        <img
-          src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750048/Atm/ouqgg59ncJ_ENTRADAS_sumbjg.png"
-          alt="entradas"
-        />
-        <img
-          src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750057/Atm/lcwiH3twBB_TA_kd9bgs.jpg"
-          alt="territorio atm"
-        />
-        <img
-          src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750070/Atm/xKplQLwjOU_Untitleddesign_57_nrjmbw.png"
-          alt="tiendas"
-        />
+        <NavLink to="/primer-equipo">
+          <img
+            src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750026/Atm/eE1b-LXrzb_hazte_socio_modulo_tku1v8.jpg"
+            alt="hazte socio"
+          />
+        </NavLink>
+        <NavLink to="/tienda">
+          {' '}
+          <img
+            src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750048/Atm/ouqgg59ncJ_ENTRADAS_sumbjg.png"
+            alt="entradas"
+          />
+        </NavLink>
+        <NavLink to="/club">
+          {' '}
+          <img
+            src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750057/Atm/lcwiH3twBB_TA_kd9bgs.jpg"
+            alt="territorio atm"
+          />
+        </NavLink>
+        <NavLink to="/tienda">
+          {' '}
+          <img
+            src="https://res.cloudinary.com/dy4mossqz/image/upload/v1676750070/Atm/xKplQLwjOU_Untitleddesign_57_nrjmbw.png"
+            alt="tiendas"
+          />
+        </NavLink>
       </div>
       <div className="atm-hero"></div>
 
