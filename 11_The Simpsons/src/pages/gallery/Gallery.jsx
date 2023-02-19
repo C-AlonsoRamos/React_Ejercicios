@@ -8,6 +8,7 @@ import "./Gallery.css";
 
 const Gallery = () => {
   const { characters, setCharacters } = useContext(UserContext);
+  const [filterCharacters, setFilterCharacters] = useState([]);
   const [loaded, setLoaded] = useState(false);
 
   const getCharacters = async () => {
@@ -16,6 +17,7 @@ const Gallery = () => {
     );
     const data = res.data;
     setCharacters(data);
+    setFilterCharacters(data);
     localStorage.setItem("characters", JSON.stringify(data));
     setLoaded(true);
   };
@@ -24,11 +26,26 @@ const Gallery = () => {
     getCharacters();
   }, []);
 
+  const filteredCharacters = (key) => {
+    const filter = characters.filter((character) =>
+      character.name.toLowerCase().includes(key.toLowerCase())
+    );
+    setFilterCharacters(filter);
+  };
+  console.log(characters, filterCharacters);
+
   return (
     <main>
-      {loaded ? (
+      <div>
+        <input
+          type="text"
+          placeholder="Search..."
+          onChange={(ev) => filteredCharacters(ev.target.value)}
+        />
+      </div>
+      {filterCharacters ? (
         <DetailLayout>
-          {characters.map((character) => (
+          {filterCharacters.map((character) => (
             <CharactersPortrait character={character} key={character.id} />
           ))}
         </DetailLayout>
