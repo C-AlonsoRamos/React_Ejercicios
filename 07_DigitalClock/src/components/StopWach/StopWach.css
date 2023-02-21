@@ -1,6 +1,6 @@
 .stopwatch{
     width:50vw;
-    height: 200px;
+    height: 180px;
     background: rgba( 87, 132, 190, 0.15 );
 box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.593);
 backdrop-filter: blur( 3px );
