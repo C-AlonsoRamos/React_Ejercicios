@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 const Countdown = () => {
   const [time, setTime] = useState("");
   useEffect(() => {
-    let countDownDate = new Date("Nov 04, 2023 00:00:00").getTime();
+    let countDownDate = new Date("may 23, 2023 00:00:00").getTime();
     let x = setInterval(() => {
       let now = new Date().getTime();
 

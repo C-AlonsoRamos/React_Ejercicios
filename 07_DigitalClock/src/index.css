@@ -1,7 +1,7 @@
 body {
-    background-image: url("../public/universo.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url("../public/asteroids.jpg");
+    background-size: contain;
+    background-position: right;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -32,7 +32,6 @@ const Gallery = () => {
     );
     setFilterCharacters(filter);
   };
-  console.log(characters, filterCharacters);
 
   return (
     <main>
