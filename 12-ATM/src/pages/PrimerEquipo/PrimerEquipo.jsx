@@ -6,10 +6,12 @@ import React, { useEffect, useState } from 'react';
 import Equipo from '../../components/Equipo/Equipo';
 import { useUser } from '../../context/userContext';
 import MainGallery from '../../Layouts/MainGallery';
+import useDebounce from '../../hook/useDebounce';
 
 const PrimerEquipo = () => {
   const { jugadores, setJugadores } = useUser();
   const [filterJugadores, setFilterJugadores] = useState([]);
+  const debouncedValue = useDebounce(filterJugadores, 1000);
 
   const getCharaters = async () => {
     const res = await axios.get('https://63f1fdd1f28929a9df51822b.mockapi.io/Atm');
@@ -40,9 +42,9 @@ const PrimerEquipo = () => {
           onChange={(ev) => filterPlayers(ev.target.value)}
         />
       </div>
-      {filterJugadores ? (
+      {debouncedValue ? (
         <MainGallery>
-          {filterJugadores.map((jugador) => (
+          {debouncedValue.map((jugador) => (
             <Equipo jugador={jugador} key={jugador.id} />
           ))}
         </MainGallery>

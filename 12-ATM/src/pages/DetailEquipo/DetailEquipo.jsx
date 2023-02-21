@@ -23,9 +23,9 @@ const DetailEquipo = () => {
       <figure className="detail">
         <img src={jugador.img2} alt={jugador.name} />
         <h2>{jugador.name}</h2>
-        <p>Posicion: {jugador.position}</p>
-        <p>Peso: {jugador.weight}</p>
-        <p>Altura: {jugador.height}</p>
+        <p> {jugador.position}</p>
+        <p>{jugador.weight}</p>
+        <p>{jugador.height}</p>
       </figure>
     </main>
   );
