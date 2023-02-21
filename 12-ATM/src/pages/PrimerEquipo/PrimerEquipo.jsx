@@ -5,8 +5,8 @@ import React, { useEffect, useState } from 'react';
 
 import Equipo from '../../components/Equipo/Equipo';
 import { useUser } from '../../context/userContext';
-import MainGallery from '../../Layouts/MainGallery';
 import useDebounce from '../../hook/useDebounce';
+import MainGallery from '../../Layouts/MainGallery';
 
 const PrimerEquipo = () => {
   const { jugadores, setJugadores } = useUser();
